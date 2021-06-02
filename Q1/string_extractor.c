@@ -1,6 +1,7 @@
 //Arihant Baid
 //StepIN assignment Question 1
 //Write a function to break the given string and return the correct string between '$' and ';' with no '$' or ';' in between. 
+//Inside the repository
 
 #include<stdio.h>
 #include<string.h>
